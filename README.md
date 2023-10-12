@@ -3,12 +3,12 @@
 To contribute, please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch for your changes.
-3. Make your changes and commit them to your branch.
-4. Push your branch to your fork.
-5. Open a pull request against the original repository.
-6. Respond to feedback from the maintainers of the repository.
-7. Once your pull request is approved, it will be merged into the original repository.
+2. Clone the repository to your machine. (git clone "url you just copied")
+3. Create a new branch for your changes. (git checkout -b branchname)
+4. Make your changes and commit them to your branch. (git add . -> git commit -m "message")
+5. Push your branch to your fork. (git push origin branchname)
+6. Open a pull request against the original repository. 
+8. Once your pull request is approved, it will be merged into the original repository.
 
 
 **Creating a Pull Request**
